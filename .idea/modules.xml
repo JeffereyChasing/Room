@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Room.iml" filepath="$PROJECT_DIR$/.idea/Room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roomio/roomio.iml" filepath="$PROJECT_DIR$/roomio/roomio.iml" />
     </modules>
   </component>
 </project>
